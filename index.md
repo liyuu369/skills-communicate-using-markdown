@@ -3,3 +3,4 @@
 ### H3 reader
 ...
 ###### until H6 reader
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
