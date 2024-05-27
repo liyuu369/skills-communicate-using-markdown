@@ -8,3 +8,8 @@
 ```
 SELECT * FROM database
 ```
+
+### Task list
+- [ ] Turn on GitHub pages
+- [ ] Outline my portfoliio
+- [ ] Introduce myself to the world
